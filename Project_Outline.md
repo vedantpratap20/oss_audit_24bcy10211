@@ -4,8 +4,8 @@
 - **Project Title:** The Open Source Audit
 - **Name:** Vedant Pratap Singh
 - **Registration Number:** 24BCY10211
-- **Slot:** c11
-- **Date:** 30/03/2026
+- **Slot:** d11
+- **Date:** 31/03/2026
 - **Selected Software:** VLC Media Player
 - **Course:** Open Source Software (VITyarthi)
 
